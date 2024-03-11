@@ -4,3 +4,8 @@
     padding: 15px;
     border-radius: 20px;
 }
+
+.visited{
+    background-color: rgb(123, 184, 248);
+    color: black;
+}
